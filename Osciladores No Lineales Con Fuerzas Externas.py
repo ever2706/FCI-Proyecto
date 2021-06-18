@@ -10,7 +10,7 @@ Integrantes:
 
 #Se importan las librerías pertinentes
 #Numpy para las distintas situaciones matemáticas
-#scipy.integrate para emplear la herramien solve_ivp con la que se resolverá la EDO de segundo orden
+#scipy.integrate para emplear la herramienta solve_ivp con la que se resolverá la EDO de segundo orden
 #matplotlib.pyplot para la generación gráfica
 #vpython para la generación de una visualización dinámica del sistema
 import numpy as np
