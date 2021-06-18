@@ -13,6 +13,7 @@ Integrantes:
 #scipy.integrate para emplear la herramienta solve_ivp con la que se resolverá la EDO de segundo orden
 #matplotlib.pyplot para la generación gráfica
 #vpython para la generación de una visualización dinámica del sistema
+#En caso de no contar con vpython instalada en algunos editores cómo Spyder, correr en la consola: conda install -c vpython vpython
 import numpy as np
 import scipy.integrate as spint
 import matplotlib.pyplot as plt
