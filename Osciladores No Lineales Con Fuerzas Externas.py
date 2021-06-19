@@ -121,7 +121,7 @@ eq=vector(0,-0.327,0) #Posición de equilibrio
 
 dt=(tf-ti)/espaciado
 cont=0
-#Se genera el movimiento del sistema para cada una de las posiciones encontradas cómo parte de la solución de la EDO
+#Se genera el movimiento del sistema para cada una de las posiciones que se encontraron cómo parte de la solución de la EDO
 while (ti<tf):
   rate(30) #Rate perfecto 30
   vec_pos=vector(0,-solucion_sistema_EDO.y[0][cont],0)
