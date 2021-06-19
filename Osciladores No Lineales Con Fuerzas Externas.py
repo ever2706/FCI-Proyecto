@@ -56,7 +56,7 @@ y1 = 0.0
 
 # Se establecen los valores de los parámetros propios del sistema de EDO
 C= 2.3*(10**(-4))  
-L= 0.8
+L= 0.6
 h= 0.035
 n= -2.53
 k= 10.42
